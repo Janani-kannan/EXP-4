@@ -42,14 +42,16 @@ Rectifier efficiency is defined as the ratio of DC output power to the input pow
 
 ## CIRCUIT DIAGRAMS
 
+
 Half wave rectifier with filter:
 
-<img width="882" height="423" alt="image" src="https://github.com/user-attachments/assets/83b0fbf6-bb1e-4841-88cf-4396b3c6b9cb" />
+
+<img width="771" height="507" alt="Screenshot 2025-10-31 094206" src="https://github.com/user-attachments/assets/b02a00e2-5058-41cc-9bab-5585128a5dbd" />
 
 
 Bridge rectifier with filter:
 
-<img width="868" height="393" alt="image" src="https://github.com/user-attachments/assets/6b2ebe3a-806e-44e9-952a-c1283aadff80" />
+<img width="778" height="517" alt="image" src="https://github.com/user-attachments/assets/4a5f0783-da48-4e9c-8396-fa6138223c7a" />
 
 
 ## Calculation  for halfwave Rectifier without filter:
