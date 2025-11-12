@@ -43,15 +43,22 @@ Rectifier efficiency is defined as the ratio of DC output power to the input pow
 ## CIRCUIT DIAGRAMS
 
 
-Half wave rectifier with filter:
+# Half wave rectifier without filter:
+
+<img width="690" height="305" alt="image" src="https://github.com/user-attachments/assets/37084d63-e394-4f8b-9720-c521eab2008b" />
 
 
-<img width="771" height="507" alt="Screenshot 2025-10-31 094206" src="https://github.com/user-attachments/assets/b02a00e2-5058-41cc-9bab-5585128a5dbd" />
+# Half wave with filter:
 
+<img width="708" height="306" alt="image" src="https://github.com/user-attachments/assets/115dd51c-848b-43e8-a78b-4ccc2a87e096" />
 
-Bridge rectifier with filter:
+# Full Wave Rectifier without  filter
 
-<img width="778" height="517" alt="image" src="https://github.com/user-attachments/assets/4a5f0783-da48-4e9c-8396-fa6138223c7a" />
+<img width="614" height="248" alt="image" src="https://github.com/user-attachments/assets/c893c504-142d-4339-9290-c055785c24d2" />
+
+# Full Wave Rectifier With Filter
+
+<img width="652" height="277" alt="image" src="https://github.com/user-attachments/assets/5d3feeea-7738-4cdf-8581-d75d6f158f48" />
 
 
 ## Calculation  for halfwave Rectifier without filter:
@@ -83,7 +90,7 @@ Bridge rectifier with filter:
 <img width="621" height="250" alt="image" src="https://github.com/user-attachments/assets/517f903b-42ba-4471-a471-b3cce585cbe7" />
 
 
-WAVEFORM:
+## WAVEFORM:
 
 (i) Halfwave:
 
@@ -93,6 +100,15 @@ WAVEFORM:
 
 <img width="1022" height="721" alt="image" src="https://github.com/user-attachments/assets/b83d289a-976f-401d-b2d4-c49baac921b9" />
 
+## OUTPUT:
+
+# HALFWAVE RECTIFIER WITHOUT FILTER:
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/178fd4f4-90e8-4208-95e1-cd588f192c72" />
+
+# FULL WAVE RECTIFIER WITH FILTER:
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b1939226-212f-4ecc-8ca6-64b56bd84bc2" />
 
 RESULT:
 
